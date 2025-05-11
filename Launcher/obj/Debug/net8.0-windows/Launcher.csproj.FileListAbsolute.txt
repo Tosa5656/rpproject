@@ -1,0 +1,17 @@
+D:\Projects\RP Project\Launcher\bin\Debug\net8.0-windows\Launcher.exe
+D:\Projects\RP Project\Launcher\bin\Debug\net8.0-windows\Launcher.deps.json
+D:\Projects\RP Project\Launcher\bin\Debug\net8.0-windows\Launcher.runtimeconfig.json
+D:\Projects\RP Project\Launcher\bin\Debug\net8.0-windows\Launcher.dll
+D:\Projects\RP Project\Launcher\bin\Debug\net8.0-windows\Launcher.pdb
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.Launcher.resources
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.csproj.GenerateResource.cache
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.AssemblyInfoInputs.cache
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.AssemblyInfo.cs
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.csproj.CoreCompileInputs.cache
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.sourcelink.json
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.dll
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\refint\Launcher.dll
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.pdb
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\Launcher.genruntimeconfig.cache
+D:\Projects\RP Project\Launcher\obj\Debug\net8.0-windows\ref\Launcher.dll
